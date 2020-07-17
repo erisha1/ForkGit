@@ -1,5 +1,6 @@
 package com.java;
 
+<<<<<<< HEAD
 import java.util.HashSet;
 import java.util.Set;
 
@@ -20,4 +21,13 @@ public class FindDuplicate {
 		}
 
 	}
+=======
+public class FindDuplicate {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+>>>>>>> 3e0abfae1b791ba1da08ae3fefeb0e6660fd8577
 }
